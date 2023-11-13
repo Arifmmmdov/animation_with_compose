@@ -2,7 +2,7 @@
 buildscript {
     ext {
         composeVersion = '1.0.0-beta07'
-        gradleVersion = '7.0.0-beta02'
+        gradleVersion = '7.0.4'
         kotlinVersion = '1.4.32'
     }
     repositories {
